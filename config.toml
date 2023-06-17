@@ -2,7 +2,7 @@ baseurl = "https://jicaai.github.io"
 title = "Chop wood, carry water~"
 # themesDir = "../../"
 themesDir = "themes"
-theme = ["white plain"]
+theme = ["whiteplain"]
 languageCode = "zh-CN"
 # Disqus shortname
 #disqusShortname = ""
